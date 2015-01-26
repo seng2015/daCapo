@@ -1,0 +1,22 @@
+To start, write a 1-2 page project proposal: What software system would you like to build, and why? You should try to find
+somebody (the “customer”) who would be interested in using this software system. The customer should help refine the specifications, and should provide feedback (to you) over the
+course of the project.
+
+Your initial proposal should include:
+• a title
+• a list of team members
+• a description of what problem the system would solve and why this problem is important (and exciting)
+• who is your customer, who will test your system
+• a description of what the system would do
+• how will you test the system, and how will you demo it
+• a brief justification that the proposal is neither too easy nor too ambitious for your team to undertake in nine weeks. Remember that your project is not only programming: it
+requires writing specification, design and planning, programming, and testing. You should avoid projects that are too easy. One way to ensure that the project is not too
+hard, is to have intermediate sets of features where one could stop if running out of time. For projects that might seem too hard, please sketch the major tasks, so that we
+can judge that something can be achieved.
+
+Additionally, to address technical issues, such as which programming language to use, or which platform, in your project proposal specify which language and tools you intend to use,
+and explain the reasons why. To better understand the background of your team, for each member in the group, please
+write:
+• languages (Java/C/C++/Perl/Python/Ruby/etc) you know, with gradation ("familiar", "expert", etc)
+• environments you are familiar with (Unix, Mac, Windows, Cygwin)
+• size (rough estimate) of the largest project you have developed, and the largest project you have been involved with (and the number of people in your project group).
