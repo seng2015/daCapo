@@ -3,11 +3,18 @@ somebody (the “customer”) who would be interested in using this software sys
 course of the project.
 
 Your initial proposal should include:
-• a title
-• a list of team members
+• a title: THOTH
+
+• a list of team members:
+Nick Maas, Rachel Protacio, Zach Blickensderfer, Xiao Shi
+
 • a description of what problem the system would solve and why this problem is important (and exciting)
+
 • who is your customer, who will test your system
+Yale Glee Club, Society of Orpheus and Bacchus, Alley Cats
+
 • a description of what the system would do
+
 • how will you test the system, and how will you demo it
 • a brief justification that the proposal is neither too easy nor too ambitious for your team to undertake in nine weeks. Remember that your project is not only programming: it
 requires writing specification, design and planning, programming, and testing. You should avoid projects that are too easy. One way to ensure that the project is not too
