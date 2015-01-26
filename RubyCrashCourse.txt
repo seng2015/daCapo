@@ -1,0 +1,33 @@
+ClassNames -- CamelCase
+methods and variables -- snake_case
+        def faculty_member? ... end
+CONSTANTS (scoped) and $GLOBALS (not scoped)
+symbols: like immutable string whose value is itself
+        e.g. :rails
+
+x = 3
+instance and class vars have nil until assigned
+array
+        x = [1,'two', :three]
+        x[1] == 'two'
+        x.length == 3
+
+Hash:
+        w = {'a'=>1, :b=>[2,3]}
+        w[:b][0] == 2
+        w.keys == ['a', :b]
+
+Methods def is similar to python's
+
+span line if parsing is unambiguous
+        raise("Boom!") unless
+          ship_stable
+
+collection.each do |elt| ... end
+
+irb
+ri (ruby info) is like man page
+ruby-doc.org
+remember to set PATH and environmental variables
+
+Everything is an object. 

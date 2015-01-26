@@ -27,3 +27,22 @@ write:
 • languages (Java/C/C++/Perl/Python/Ruby/etc) you know, with gradation ("familiar", "expert", etc)
 • environments you are familiar with (Unix, Mac, Windows, Cygwin)
 • size (rough estimate) of the largest project you have developed, and the largest project you have been involved with (and the number of people in your project group).
+
+Xiao Shi:
+• languages (Java/C/C++/Perl/Python/Ruby/etc) you know, with gradation ("familiar", "expert", etc)
+Java: expert
+C: expert
+C++: proficient
+Perl: ehhh...
+Python: proficient
+Ruby: familiar
+
+• environments you are familiar with (Unix, Mac, Windows, Cygwin)
+Unix: expert
+Windows: expert
+Mac: familiar (on the basis of BSD...)
+
+• size (rough estimate) of the largest project you have developed, and the largest project you have been involved with (and the number of people in your project group).
+developed: thousands of lines in java, c, python separately.
+involved: millions of lines, 20 ppl+
+
