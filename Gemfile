@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
 
+gem 'devise'
 
+gem 'simple_form'
 gem 'pg'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
